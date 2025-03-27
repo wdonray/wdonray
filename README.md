@@ -14,10 +14,10 @@ I'm a senior frontend engineer with a knack for crafting intuitive and modern we
 
 **Check out my work:**
 
-* **pico.domains:** [https://www.pico.domains/](https://www.pico.domains/) - Do you find yourself endlessly brainstorming the perfect domain name for your next project? Stop brainstorming, and let the perfect domain name find YOU! Whether you're building a personal brand, launching a startup, or securing a unique web identity, our platform helps you discover ultra-short domain names effortlessly. Instead of being a registrar, we operate as a smart search engine—curating the best available domains and connecting you with trusted marketplaces. Our mission is to simplify the search for high-value, concise domains.
+* **pico.domains:** [https://www.pico.domains/](https://www.pico.domains/) - Struggling to find the perfect domain name? Let us help! Our platform makes discovering ultra-short domain names easy for your brand or startup. We act as a smart search engine, curating the best available options and connecting you with trusted marketplaces for high-value, concise domains.
   * Nuxt.js/CSS/HTML5
 
-* **Cyclei:** [https://app.cyclei.eco/](https://app.cyclei.eco/) -  Cyclei offers a convenient curbside collection program for reusable containers as part of your weekly trash and recycling pickup. Our goal is to increase adoption and return rates for reusable packaging while making sustainability easy and accessible.
+* **Cyclei:** [https://app.cyclei.eco/](https://app.cyclei.eco/) - Cyclei provides curbside collection for reusable containers during weekly trash and recycling pickup, aiming to boost adoption and return rates for reusable packaging while simplifying sustainability.
   * Vue3/CSS/HTML5 
 
 **Let's Connect!**
