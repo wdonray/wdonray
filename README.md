@@ -2,13 +2,13 @@
 
 Senior Frontend Engineer 🚀 | Based in New York/New Jersey
 
-I'm a senior frontend engineer with a knack for crafting intuitive and modern web applications. From the bustling streets of New York City, I bring a passion for turning complex ideas into elegant and user-friendly interfaces.
+I'm a senior frontend engineer with a knack for crafting intuitive and modern web applications.
 
 **My Key Skills Include:**
 
 * 💻 Modern JavaScript Frameworks (Vue.js/Nuxt and React.js)
 * 🎨 HTML5, CSS3, Sass/Less
-* 🧪 Testing (Vittest, Playwright)
+* 🧪 Testing (Vitest, Playwright)
 * 📱 Responsive Design & Accessibility
 * 🌐 RESTful APIs & GraphQL
 
