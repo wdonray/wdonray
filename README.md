@@ -9,4 +9,4 @@ Check out my portfolio! https://www.donray.dev/
 **Let's Connect!**
 
 * [LinkedIn](https://www.linkedin.com/in/donrayxwilliams/)
-* 📧 <a href="mailto:donrayxwilliams@gmail.com">Email me!</a>
+* <a href="mailto:donrayxwilliams@gmail.com">Email me!</a>
