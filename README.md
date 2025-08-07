@@ -2,7 +2,7 @@
 
 Senior Frontend Engineer 🚀 | Based in New York/New Jersey
 
-I'm a senior frontend engineer with a knack for crafting intuitive and modern web applications.
+I'm a senior software engineer with a knack for crafting intuitive and modern web applications.
 
 Check out my portfolio! https://www.donray.dev/
 
