@@ -1,12 +1,16 @@
 # 👋 Hi, I'm Donray Williams! 👨‍💻
 
-Senior Frontend Engineer 🚀 | Based in New York/New Jersey
+**Senior Software Engineer** | Based in New York/New Jersey
 
-I'm a senior software engineer with a knack for crafting intuitive and modern web applications.
+I specialize in building intuitive, modern web applications that deliver great user experiences.
 
-Check out my portfolio! https://www.donray.dev/
+**Tech Stack:** JavaScript (React, Vue), TypeScript, HTML/CSS, GO and more.
+
+[🌐 View my portfolio](https://www.donray.dev/)
+
+---
 
 **Let's Connect!**
 
-* [LinkedIn](https://www.linkedin.com/in/donrayxwilliams/)
-* <a href="mailto:donrayxwilliams@gmail.com">Email me!</a>
+- [LinkedIn](https://www.linkedin.com/in/donrayxwilliams/)
+- [Email me!](mailto:donrayxwilliams@gmail.com)
